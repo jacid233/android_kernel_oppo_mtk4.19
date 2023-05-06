@@ -25,11 +25,11 @@
 #include <linux/alarmtimer.h>
 #include <linux/uaccess.h>
 #include <linux/alarmtimer.h>
-#include "../../../../../kernel-4.19/drivers/power/supply/charger_class.h"
-#include "../../../../../kernel-4.19/drivers/power/supply/adapter_class.h"
-#include "../../../../../kernel-4.19/drivers/power/supply/mtk_pd.h"
-#include "../../../../../kernel-4.19/drivers/power/supply/mtk_charger_algorithm_class.h"
-#include "../../../../../kernel-4.19/drivers/misc/mediatek/typec/tcpc/inc/tcpm.h"
+#include "../../../../../drivers/power/supply/charger_class.h"
+#include "../../../../../drivers/power/supply/adapter_class.h"
+#include "../../../../../drivers/power/supply/mtk_pd.h"
+#include "../../../../../drivers/power/supply/mtk_charger_algorithm_class.h"
+#include "../../../../../drivers/misc/mediatek/typec/tcpc/inc/tcpm.h"
 //#include "../../../drivers/misc/mediatek/typec/tcpc/inc/mtk_direct_charge_vdm.h"
 
 
